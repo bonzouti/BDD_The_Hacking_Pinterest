@@ -5,10 +5,10 @@ Pinterest site où les utilisateurs peuvent créer des "pins". Chaque pin contie
 Utiliser rails console dans le terminal pour avoir accès aux BDD.
 
 # Versions
-Ruby 2.5.1 p57
-RoR 5.2.2.
-Active Records
-Faker
+- Ruby 2.5.1 p57
+- RoR 5.2.2.
+- Active Records
+- Faker
 
 # Auteurs
 - Mathieu PIERRE @Mathieu PIERRE
