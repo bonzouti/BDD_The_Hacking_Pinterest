@@ -1,24 +1,17 @@
-# README
+#A propos du projet Pinterest
+Pinterest site où les utilisateurs peuvent créer des "pins". Chaque pin contient l'URL d'une image sur le net. Les utilisateurs peuvent commenter les pins, mais ne peuvent pas commenter les commentaires. On a créé une table User, une table Pin, une table Comments. 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+#Instructions
+Utiliser rails console dans le terminal pour avoir accès aux BDD.
 
-Things you may want to cover:
+#Versions
+Ruby 2.5.1 p57
+RoR 5.2.2.
+Active Records
+Faker
 
-* Ruby version
+#Auteurs
+- Mathieu PIERRE @Mathieu PIERRE
+- Bérénice Bourgon @Bérénice
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Merci pour la correction !
